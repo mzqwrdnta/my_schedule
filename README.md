@@ -41,4 +41,4 @@ Sinkronisasi lintas perangkat menggunakan backend (Firebase/Node.js).
 
 ## 📸 Tampilan Aplikasi
 
-![Tampilan Aplikasi](https://preview.png)
+![Tampilan Aplikasi](preview.png)
